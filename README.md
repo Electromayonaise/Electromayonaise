@@ -32,7 +32,7 @@
 
 - ☁️ I've got a keen interest in working with the .NET framework 
 
-- 📫 Feel free to reach me out **agzazaca@gmail.com**
+- 📫 Feel free to reach me out **agazazaca@gmail.com**
 
 <!--Intro end-->
 
@@ -112,5 +112,5 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--Credit: [1010nishant](https://github.com/1010nishant) --> 
+<!--Based on user: https://github.com/1010nishant --> 
 
