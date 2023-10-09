@@ -98,6 +98,11 @@
 <a href="https://www.linkedin.com/in/martín-gómez-373518268/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   
 </p>
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Electromayonaise&label=Profile%20Views&color=11&icon=2&pretty=false" />
+</a>
+</p>
 
 
 
