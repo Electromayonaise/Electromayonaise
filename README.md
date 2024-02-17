@@ -9,8 +9,8 @@
 
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/Electromayonaise/Electromayonaise/blob/main/Assets/sakamotoV3.gif"
+       alt="gif" /></a>
 </div>
 
 
