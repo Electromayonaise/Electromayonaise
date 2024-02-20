@@ -1,20 +1,27 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Martin </h1></summary>
-  </ul>
-</div>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi,%20%20👋%20I'm Martin&font=Fira%20Code&center=true&width=500&height=70&color=f75c7e&vCenter=true&pause=1000000000&size=40" /></a>
+</p>
+
 
 <div align="center">
   <img  src="https://github.com/Electromayonaise/Electromayonaise/blob/main/Assets/sakamotoV3.gif"
        alt="gif" /></a>
 </div>
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+ 
+</p>
+
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Learning is a lifelong journey</h2></summary>
+     <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines= %20Software%20engineering%20student; %20Learning%20is%20a%20lifelong%20journey&font=Fira%20Code&center=true&width=450&height=45&color=f75c7e&vCenter=true&pause=10000&size=20" /></a>
   </ul>
 </div>
 
@@ -79,10 +86,6 @@
 <a href="https://www.linkedin.com/in/martín-gómez-373518268/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   
 </p>
-<p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Electromayonaise&label=Profile%20Views&color=11&icon=2&pretty=false" />
-</a>
 </p>
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
