@@ -13,6 +13,10 @@
        alt="gif" /></a>
 </div>
 
+<p
+
+</p>
+
 <div id="user-content-toc">
   <ul align="center">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
