@@ -39,7 +39,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Electromayonaise&theme=radical&show_icons=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img  align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Electromayonaise&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
   <br></br>
   <img  title="stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Electromayonaise&theme=radical&hide_border=true" /> 
 </td>
