@@ -7,19 +7,16 @@
   </ul>
 </div>
 
-
 <div align="center">
   <img  src="https://github.com/Electromayonaise/Electromayonaise/blob/main/Assets/sakamotoV3.gif"
        alt="gif" /></a>
 </div>
-
 
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Learning is a lifelong journey</h2></summary>
   </ul>
 </div>
-
 
 - 🔭 I’m currently studying software engineering at ICESI University 
 
@@ -30,14 +27,14 @@
 - 📫 Feel free to reach me out **MartinGomezCaicedo@protonmail.com**
 
 <p align="center">
-  <!--- stats (start) -->
+  
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Electromayonaise&theme=radical&show_icons=true&count_private=true&hide_border=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Electromayonaise&theme=radical&show_icons=true&count_private=true&hide_border=true&rank_icon=github" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Electromayonaise&theme=radical&hide_border=true" /> 
+  <img  title="stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Electromayonaise&theme=radical&hide_border=true" /> 
 </td>
 <td width="50%" align="center">
 
