@@ -25,11 +25,6 @@
 </div>
 
 - 🔭 I’m currently studying software engineering at ICESI University 
-
-- 🌱 I’m currently learning web development and neural networks
-
-- ☁️ I've got a keen interest in working with the .NET framework 
-
 - 📫 Feel free to reach me out **MartinGomezCaicedo@protonmail.com**
 
 <p align="center">
@@ -68,7 +63,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,r,cpp,css,discord,github,html,idea,java,js,py,vscode,tensorflow,net &perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,r,cpp,css,discord,latex,md,github,html,idea,java,js,nodejs,py,vscode,tensorflow,net,scala,mysql,gradle &perline=14" />
   </a>
 </p>
 
