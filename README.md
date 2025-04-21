@@ -38,10 +38,11 @@
   <img  title="stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Electromayonaise&theme=radical&hide_border=true" /> 
 </td>
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Electromayonaise&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+  <img 
+    align="center"  
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Electromayonaise&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook" 
+  />
+</td>
 </tr>
 </table>
 
