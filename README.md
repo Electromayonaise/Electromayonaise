@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,r,cpp,css,html,java,js,py,scala,discord,latex,md,git,github,idea,vscode,nodejs,tensorflow,net,mysql,gradle,spring,react,django,fastapi,flask&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,r,cpp,css,html,java,js,ts,py,scala,discord,latex,md,git,github,idea,vscode,nodejs,tensorflow,net,mysql,postgresql,gradle,spring,react,django,fastapi,flask,vercel&perline=14" />
   </a>
 </p>
 
