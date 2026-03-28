@@ -77,7 +77,7 @@
 <div align="center">
   <h4>AI / ML</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv,numpy&perline=5" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&perline=4" />
   </a>
 </div>
 
@@ -93,7 +93,7 @@
 <div align="center">
   <h4>DevOps & Tools</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,gradle,maven,jenkins,vercel,aws&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,gradle,maven,npm,jenkins,vercel,aws&perline=10" />
   </a>
 </div>
 
@@ -101,7 +101,7 @@
 <div align="center">
   <h4>Testing</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman,jenkins&perline=5" />
+    <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman&perline=4" />
   </a>
 </div>
 
