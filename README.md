@@ -1,13 +1,13 @@
 <!-- Typing SVG Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi%20%F0%9F%91%8B%2C%20I'm%20Martin&font=Fira%20Code&center=true&width=500&height=70&color=f75c7e&vCenter=true&pause=100000&size=40" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi%2C I'm%20Martin&font=Fira%20Code&center=true&width=500&height=70&color=f75c7e&vCenter=true&pause=100000&size=40" />
 </p>
 
 
 
 <!-- GIF -->
 <div align="center">
-  <img src="https://github.com/Electromayonaise/Electromayonaise/blob/main/Assets/sakamotoV3.gif" alt="gif" />
+  <img src="https://github.com/Electromayonaise/Electromayonaise/blob/main/Assets/cat-meme-wave-emoji.gif" alt="gif" />
 </div>
 
 <!-- About Me Typing SVG -->
@@ -40,7 +40,7 @@
 <!-- Trophy Section -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Electromayonaise&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="TROPHY" />
+    <img width="90%" src="https://github-profile-trophy-tawny.vercel.app/?username=Electromayonaise&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="TROPHY" />
   </a>
 </div>
 
@@ -49,11 +49,61 @@
   <h2>Technologies That I Know</h2>
 </div>
 
-<p align="center">
+<!-- Languages -->
+<div align="center">
+  <h4>Languages</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,r,cpp,css,html,java,js,ts,py,scala,discord,latex,md,git,github,idea,vscode,nodejs,tensorflow,net,mysql,postgresql,gradle,spring,react,django,fastapi,flask,vercel&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,py&perline=4" />
   </a>
-</p>
+</div>
+
+<!-- Frontend -->
+<div align="center">
+  <h4>Frontend</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,threejs&perline=7" />
+  </a>
+</div>
+
+<!-- Backend & Frameworks -->
+<div align="center">
+  <h4>Backend & Frameworks</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,net,django,fastapi,flask,graphql&perline=8" />
+  </a>
+</div>
+
+<!-- AI / ML -->
+<div align="center">
+  <h4>AI / ML</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv,numpy&perline=5" />
+  </a>
+</div>
+
+<!-- Databases -->
+<div align="center">
+  <h4>Databases</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,supabase&perline=5" />
+  </a>
+</div>
+
+<!-- DevOps & Tools -->
+<div align="center">
+  <h4>DevOps & Tools</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,gradle,maven,jenkins,vercel,aws&perline=10" />
+  </a>
+</div>
+
+<!-- Testing -->
+<div align="center">
+  <h4>Testing</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman,jenkins&perline=5" />
+  </a>
+</div>
 
 <!-- Find Me At Section -->
 <div align="center">
