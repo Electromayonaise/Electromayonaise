@@ -1,6 +1,6 @@
 <!-- Typing SVG Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi%2C I'm%20Martin&font=Fira%20Code&center=true&width=500&height=70&color=f75c7e&vCenter=true&pause=100000&size=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C%20I%27m%20Martin&font=Fira%20Code&center=true&width=500&height=70&color=f75c7e&vCenter=true&pause=100000&size=40" />
 </p>
 
 
