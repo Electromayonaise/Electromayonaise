@@ -18,7 +18,7 @@
 <!-- About Me Text -->
 <ul>
   <li>🔭 I’m currently studying software engineering at ICESI University</li>
-  <li>📫 Feel free to reach me out at <strong>MartinGomezCaicedo@protonmail.com</strong></li>
+  <li>📫 Feel free to reach me out at <strong>martingomez@smk-software.com</strong></li>
 </ul>
 
 <!-- GitHub Stats -->
